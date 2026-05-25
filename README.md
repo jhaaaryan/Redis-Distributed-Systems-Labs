@@ -1,4 +1,4 @@
-# Redis Backend Engineering Labs
+# Redis Backend Systems Playground
 
 This repository contains my hands-on implementations of Redis-based backend systems while learning distributed system concepts through practical coding.
 
