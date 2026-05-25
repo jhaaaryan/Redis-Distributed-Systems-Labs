@@ -59,7 +59,7 @@ This repo is organized into independent learning modules:
 
 ## Important Note
 
-These projects are simplified learning implementations.
+These projects are focused on backend engineering experiments built to understand Redis-driven distributed system patterns such as caching, queues, rate limiting, Pub/Sub messaging, and concurrency control.
 
 They are not production-ready systems, but they are designed to build strong intuition around distributed backend design.
 
